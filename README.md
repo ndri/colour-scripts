@@ -5,5 +5,8 @@ Colour scripts made in Python for use in desktop threads and whatnot.
 
 Notes
 -
+![notes](img/notes.png)
 
-![notes](img/notes.jpg)
+Notes 2
+-
+![notes2](img/notes2.png)
