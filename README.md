@@ -3,7 +3,7 @@ colour-scripts
 
 Colour scripts made in Python for use in desktop threads and whatnot.
 
-You can easily make your own shape and colour combination by editing any script.
+You can easily make your own shape and colour combination by editing one of the.
 
 The shapes are 12 by 12 and have one colour only.
 
