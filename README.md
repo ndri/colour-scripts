@@ -1,7 +1,11 @@
 colour-scripts
 =
 
-Colour scripts made in Python for use in desktop threads and whatnot.
+Colour scripts made in Python for use in desktop threads and whatnot. 
+You can easily make your own shape and colour combination by editing any script.
+The shapes are 12 by 12 and have one colour only.
+The scripts might not look good with all fonts. In the previews I am using Terminus.
+
 
 Notes
 -
