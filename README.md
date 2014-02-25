@@ -9,6 +9,9 @@ The shapes are 12x12 and have one colour.
 
 The scripts might not look good with every font. In the previews I am using Terminus.
 
+Use these characters to make your shapes:
+
+█  ▀  ▄  ▐  ▌  ▖  ▗  ▘  ▝  ▞  ▚  ▙  ▛  ▜  ▟  ░  ▒  ▓
 
 Notes
 -
