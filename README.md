@@ -41,3 +41,7 @@ Hearts
 Helmets
 -
 ![helmets](img/helmets.png)
+
+Triangles
+-
+![triangles](img/triangles.png)
