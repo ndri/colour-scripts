@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# messages colour script
+# triangles colour script
 reset = '\x1B[0m'
 default = '\x1B[39m'
 black = '\x1B[30m'
@@ -21,12 +21,12 @@ lightcyan = '\x1B[96m'
 white = '\x1B[97m'
 
 shape = [
-u'  ▄▄▄▄▄▄▄▄  ',
-u' ██▀▀▀▀▀▀██ ',
-u' ██▀▀▀▀▀▀██ ',
-u' ██████████ ',
-u'  ▀▀▀▀███▀  ',
-u'       ▀▀▀  ']
+u' ▄▄▄▄▄▄▄▄▄▄ ',
+u' ████▀▀████ ',
+u' ██▀▀  ▀▀██ ',
+u' ██▄▄  ▄▄██ ',
+u' ████▄▄████ ',
+u' ▀▀▀▀▀▀▀▀▀▀ ']
 
 coloursets = [
 [yellow, red, green, blue, magenta, cyan],

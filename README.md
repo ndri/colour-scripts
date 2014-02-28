@@ -48,3 +48,7 @@ Helmets
 Triangles
 -
 ![triangles](img/triangles.png)
+
+Plusses
+-
+![plusses](img/plusses.png)
